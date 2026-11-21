@@ -1,29 +1,32 @@
 {
-  "chunkCount": 340,
-  "exportedInstances": 303878,
-  "exportedProperties": 7093537,
-  "jsonSanitizationSamples": [
-    "ServerStorage/UIListLayout[properties][SortOrder][enumType] (EnumItem)",
-    "ServerStorage/UIGridLayout[properties][SortOrder][enumType] (EnumItem)",
-    "ServerStorage/UIListLayout[properties][SortOrder][enumType] (EnumItem)",
-    "ServerStorage/UIListLayout[properties][SortOrder][enumType] (EnumItem)",
-    "ServerStorage/UIListLayout[properties][SortOrder][enumType] (EnumItem)",
-    "ServerStorage/UIListLayout[properties][SortOrder][enumType] (EnumItem)"
+  "exportedMorphs": 4,
+  "exportedProperties": 8243,
+  "input": "C:\\Users\\Jimmy\\Downloads\\cubev4_github_update\\cubev4forAI.rbxl",
+  "jsonValuesOmitted": 0,
+  "morphInstances": 1131,
+  "morphs": [
+    {
+      "count": 140,
+      "file": "morphs/M.json",
+      "name": "M"
+    },
+    {
+      "count": 321,
+      "file": "morphs/F.json",
+      "name": "F"
+    },
+    {
+      "count": 335,
+      "file": "morphs/FB.json",
+      "name": "FB"
+    },
+    {
+      "count": 335,
+      "file": "morphs/MY.json",
+      "name": "MY"
+    }
   ],
-  "jsonSanitizedRecords": 6,
-  "jsonSanitizedValues": 6,
-  "roots": [
-    "Workspace",
-    "ReplicatedStorage",
-    "ServerStorage",
-    "StarterGui",
-    "StarterPack",
-    "StarterPlayer",
-    "Lighting",
-    "SoundService"
-  ],
-  "skippedScriptAndRemoteInstances": 1562,
-  "source": "C:\\Users\\Jimmy\\Downloads\\cubev4_github_update\\cubev4forAI.rbxl",
-  "unsupportedAttributeValues": 0,
-  "unsupportedPropertyValues": 2726886
+  "uniqueAnimationIds": 54,
+  "unsupportedAttributes": 0,
+  "unsupportedProperties": 3156
 }
