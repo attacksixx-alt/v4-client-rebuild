@@ -1,7 +1,7 @@
 -- Cubev4 client rebuild bootstrap.
 -- Replace YOUR_GITHUB_USERNAME with the owner of the public repository.
 
-local BASE_URL = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/v4-client-rebuild/main"
+local BASE_URL = "https://raw.githubusercontent.com/attacksixx-alt/v4-client-rebuild/main"
 
 local function fetch(url)
     local ok, body = pcall(function()
