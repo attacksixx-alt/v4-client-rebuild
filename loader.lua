@@ -1,7 +1,7 @@
 -- Cubev4 focused client-only preview loader.
 -- Replace YOUR_GITHUB_USERNAME before uploading this file.
 
-local USERNAME = "YOUR_GITHUB_USERNAME"
+local USERNAME = "attacksixx-alt"
 local REPOSITORY = "v4-client-rebuild"
 local BRANCH = "main"
 
